@@ -36,7 +36,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string/>
+	<string>Permita que Barber Shop encontre você no mapa, para traçar sua rota até nossas unidades.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -55,10 +55,10 @@
 	<array>
 		<string>coffie.ttf</string>
 		<string>vegan.ttf</string>
+		<string>GothamProBold.ttf</string>
+		<string>GothamProRegular.ttf</string>
 	</array>
-  <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-  <string>Permita que Barber Shop encontre você no mapa, para traçar sua rota até nossas unidades.</string>
-  <key>NSLocationWhenInUseUsageDescription</key>
-  <string>Permita que Barber Shop encontre você no mapa, para traçar sua rota até nossas unidades.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Permita que Barber Shop encontre você no mapa, para traçar sua rota até nossas unidades.</string>
 </dict>
 </plist>

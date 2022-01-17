@@ -15,7 +15,7 @@ export const DEFAULT_TITLE = "BARBER SHOP"
 export const DEFAULT_USER_STRUCT = { id: 0 }
 
 export const DEFAULT_SELECT_COLOR = "#0b929e"
-export const DEFAULT_BARBER_COLOR = "#f7e7d7"
+export const DEFAULT_BARBER_COLOR = "#7f00ff"
 
 export const locale = {
     name: 'br',

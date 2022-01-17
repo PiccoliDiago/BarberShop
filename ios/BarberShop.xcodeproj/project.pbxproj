@@ -16,6 +16,8 @@
 		881EE70094B066F50BFA4445 /* libPods-BarberShop-BarberShopTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 592C1619B276B8DA4097F82F /* libPods-BarberShop-BarberShopTests.a */; };
 		A78802D2A2B84263909E429E /* vegan.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C6BB5B7E6D4C472B897B9DFE /* vegan.ttf */; };
 		DAC254C76FCE4A7C90671823 /* coffie.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2185ACD3090B41C69E2A45BC /* coffie.ttf */; };
+		25A0A57BFEDE4A199E1F989C /* GothamProBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2B393AC69854470B5D7C11C /* GothamProBold.ttf */; };
+		944A49D5E02E439AA88C3258 /* GothamProRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C3248CE50F2243C29CA77F86 /* GothamProRegular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +40,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = BarberShop/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = BarberShop/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = BarberShop/main.m; sourceTree = "<group>"; };
-		2185ACD3090B41C69E2A45BC /* coffie.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = coffie.ttf; path = ../src/assets/fonts/coffie.ttf; sourceTree = "<group>"; };
+		2185ACD3090B41C69E2A45BC /* coffie.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = coffie.ttf; path = ../src/assets/fonts/coffie.ttf; sourceTree = "<group>"; };
 		48F9ED5A43F2C777A8438062 /* Pods-BarberShop.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BarberShop.release.xcconfig"; path = "Target Support Files/Pods-BarberShop/Pods-BarberShop.release.xcconfig"; sourceTree = "<group>"; };
 		4DAB449B786D61281DCF5A5C /* Pods-BarberShop-BarberShopTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BarberShop-BarberShopTests.debug.xcconfig"; path = "Target Support Files/Pods-BarberShop-BarberShopTests/Pods-BarberShop-BarberShopTests.debug.xcconfig"; sourceTree = "<group>"; };
 		592C1619B276B8DA4097F82F /* libPods-BarberShop-BarberShopTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BarberShop-BarberShopTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -46,8 +48,10 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = BarberShop/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B6F8E473D798033B75106F6 /* libPods-BarberShop.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BarberShop.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A17B72B35853514ED125625E /* Pods-BarberShop-BarberShopTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BarberShop-BarberShopTests.release.xcconfig"; path = "Target Support Files/Pods-BarberShop-BarberShopTests/Pods-BarberShop-BarberShopTests.release.xcconfig"; sourceTree = "<group>"; };
-		C6BB5B7E6D4C472B897B9DFE /* vegan.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = vegan.ttf; path = ../src/assets/fonts/vegan.ttf; sourceTree = "<group>"; };
+		C6BB5B7E6D4C472B897B9DFE /* vegan.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = vegan.ttf; path = ../src/assets/fonts/vegan.ttf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		D2B393AC69854470B5D7C11C /* GothamProBold.ttf */ = {isa = PBXFileReference; name = "GothamProBold.ttf"; path = "../src/assets/fonts/GothamProBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C3248CE50F2243C29CA77F86 /* GothamProRegular.ttf */ = {isa = PBXFileReference; name = "GothamProRegular.ttf"; path = "../src/assets/fonts/GothamProRegular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,9 +119,10 @@
 			children = (
 				2185ACD3090B41C69E2A45BC /* coffie.ttf */,
 				C6BB5B7E6D4C472B897B9DFE /* vegan.ttf */,
+				D2B393AC69854470B5D7C11C /* GothamProBold.ttf */,
+				C3248CE50F2243C29CA77F86 /* GothamProRegular.ttf */,
 			);
 			name = Resources;
-			path = "";
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -160,7 +165,6 @@
 				4DAB449B786D61281DCF5A5C /* Pods-BarberShop-BarberShopTests.debug.xcconfig */,
 				A17B72B35853514ED125625E /* Pods-BarberShop-BarberShopTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -262,6 +266,8 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				DAC254C76FCE4A7C90671823 /* coffie.ttf in Resources */,
 				A78802D2A2B84263909E429E /* vegan.ttf in Resources */,
+				25A0A57BFEDE4A199E1F989C /* GothamProBold.ttf in Resources */,
+				944A49D5E02E439AA88C3258 /* GothamProRegular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
